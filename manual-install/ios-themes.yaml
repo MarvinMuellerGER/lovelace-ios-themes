@@ -66,6 +66,8 @@ ios-dark-green-alternative:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -194,6 +196,8 @@ ios-dark-green:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -322,6 +326,8 @@ ios-light-blue-alternative:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -450,6 +456,8 @@ ios-light-blue:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -578,6 +586,8 @@ ios-light-green-alternative:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -706,6 +716,8 @@ ios-light-green:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -834,6 +846,8 @@ ios-orange-alternative:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -962,6 +976,8 @@ ios-orange:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -1090,6 +1106,8 @@ ios-blue-red-alternative:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -1218,6 +1236,8 @@ ios-blue-red:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -1346,6 +1366,8 @@ ios-red-alternative:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -1474,6 +1496,8 @@ ios-red:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -1602,6 +1626,8 @@ ios-dark-blue-alternative:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
@@ -1730,6 +1756,8 @@ ios-dark-blue:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
+  # Background Blurring
+  dialog-backdrop-filter: blur(10px)
   modes:
     light:
       # Global
